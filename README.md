@@ -13,7 +13,7 @@ On View Report page, you can view your expenses through a colorful graph in perc
 SQLite
 
 ### Technology 
-JAVA , CSS, HTML,JQURYMOBILE.
+JAVA, CSS, HTML, JQURYMOBILE.
 
 ### GIT
 https://github.com/maorte/Cost_Manager_MobileA_pp

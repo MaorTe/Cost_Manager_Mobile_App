@@ -16,7 +16,7 @@ SQLite
 JAVA , CSS, HTML,JQURYMOBILE.
 
 ### GIT
-https://github.com/nuriel99/Cost_Manager_MobileA_pp
+https://github.com/maorte/Cost_Manager_MobileA_pp
 
 ### Youtube
 https://youtu.be/sCeSGA7MBiM
